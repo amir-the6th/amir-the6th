@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **amir-the6th/amir-the6th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
