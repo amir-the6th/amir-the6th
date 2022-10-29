@@ -1,7 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=flat&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-**amir-the6th/amir-the6th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+## Hi there 👋
+
+My name is Amir.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=flat&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
