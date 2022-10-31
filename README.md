@@ -8,7 +8,7 @@ My name is Amir. More about me:
 - 🌐 Now more focused on front-end development.
 - 🌱 Currently doing a Front-End bootcamp at [Scrimba](https://scrimba.com). 
 
-- 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website(Currently under development)](https://arsenicolos.com) | 🤝[LinkedIn](https://linkedin.com/in/arsenicolos)
+- 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website(under development)](https://arsenicolos.com) | 🤝[LinkedIn](https://linkedin.com/in/arsenicolos)
 
 <!--
 - 🔭 I’m currently working on ...
