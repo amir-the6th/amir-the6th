@@ -3,9 +3,9 @@
 My name is Amir. More about me:
 - 💻 I finished a CS program at Seneca College.
 - 📊 Left my learnings and became a Marketing Technologist for a year.
-- 👨🏻‍💻 Loved it, but still loved programming more.
-- 🚀 So I kicked off my development journey again.
-- 🌐 Now more focused on front-end development.
+- 👨🏻‍💻 Loved it, but loved programming more.
+- 🚀 Kicked off my development journey again.
+- 🌐 More focused on front-end development this time.
 - 🌱 Currently doing a Front-End bootcamp at [Scrimba](https://scrimba.com). 
 
 - 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website(under development)](https://arsenicolos.com) | 🤝[LinkedIn](https://linkedin.com/in/arsenicolos)
