@@ -20,4 +20,4 @@ My name is Amir. More about me:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=flat&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=flat&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
