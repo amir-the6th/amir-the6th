@@ -23,6 +23,8 @@ My name is Amir. More about me:
 ![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
 [Credit](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=flat&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=discord&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)
+[Credit](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact)
+[Credit](https://github.com/anuraghazra/github-readme-stats)
