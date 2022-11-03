@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-the6th)](https://github.com/anuraghazra/github-readme-stats)
-
 My name is Amir. More about me:
 - 💻 I finished a CS program at Seneca College.
 - 📊 Left my learnings and became a Marketing Technologist for a year.
@@ -21,5 +19,7 @@ My name is Amir. More about me:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=flat&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
