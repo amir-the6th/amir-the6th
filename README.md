@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### My name is Amir. More about me:
+### My name is Amir; more about me:
 - 💻 I finished a CS program at Seneca College.
 - 📊 Left my learnings and became a Marketing Technologist for a year.
 - 👨🏻‍💻 Loved it, but loved programming more.
