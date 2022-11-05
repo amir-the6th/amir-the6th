@@ -1,6 +1,8 @@
-# Hi there 👋
+> Life is a succession of lessons, which must be lived to be understood.
+> — <cite>Ralph Waldo Emerson</cite>
 
-### My name is Amir; more about me:
+
+## 👋 Hi there; My name is Amir:
 - 💻 I finished a CS program at Seneca College.
 - 📊 Left my learnings and became a Marketing Technologist for a year.
 - 👨🏻‍💻 Loved it, but loved programming more.
