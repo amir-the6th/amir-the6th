@@ -41,10 +41,11 @@
 
 <details>
   
-<summary>Don't Quit!</summary>
+<summary>Open Dropdown</summary>
   
 <br>
-  
+
+<h3>Don't Quit!</h3>
 <cite>by: *Edgar Albert Guest*</cite>
   
 > “When things go wrong, as they sometimes will,<br/>
