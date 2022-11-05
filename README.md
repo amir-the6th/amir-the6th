@@ -34,7 +34,7 @@
 
 ---
 ## Don't Quit!
-> by: *Edgar Albert Guest*
+<cite>by: *Edgar Albert Guest*</cite>
 > 
 > “When things go wrong, as they sometimes will,<br/>
 > When the road you’re trudging seems all uphill,<br/>
