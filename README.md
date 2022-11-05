@@ -46,6 +46,7 @@
 <h3>Don't Quit!</h3>
 <cite>by: *Edgar Albert Guest*</cite>
 <br>
+  
 > “When things go wrong, as they sometimes will,<br/>
 > When the road you’re trudging seems all uphill,<br/>
 > When the funds are low and the debts are high,<br/>
