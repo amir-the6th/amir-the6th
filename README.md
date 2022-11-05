@@ -40,12 +40,15 @@
 </details>
 
 ---
-<div style="background-color: red">
+
 <details>
+  
 <summary>Don't Quit!</summary>
+  
 <br>
+  
 <cite>by: *Edgar Albert Guest*</cite>
-> 
+  
 > “When things go wrong, as they sometimes will,<br/>
 > When the road you’re trudging seems all uphill,<br/>
 > When the funds are low and the debts are high,<br/>
@@ -75,4 +78,3 @@
 > It’s when things seem worst that you must not quit”<br/>
   
 </details>
-</div>
