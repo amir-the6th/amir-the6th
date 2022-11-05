@@ -11,7 +11,7 @@
 - 🌱 Currently doing a Front-End bootcamp at [Scrimba](https://scrimba.com). 
 
 - 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website(under development)](https://arsenicolos.com) | 🤝[LinkedIn](https://linkedin.com/in/arsenicolos)
-- 🤔 I shared a favorite poems of mine, *Don't Quit*, after the Stats section.
+- 🤔 I shared a favorite poems of mine, [*Don't Quit*](#motivational-poem), after the Stats section.
 ---
 <!--
 - 🔭 I’m currently working on ...
@@ -22,10 +22,8 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<details>
-<summary>Stats</summary>
-<br>
-  
+## Stats
+
 ![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
@@ -37,9 +35,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
   
-</details>
-
 ---
+
+## Motivational Poem
 
 <details>
   
