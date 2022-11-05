@@ -40,7 +40,7 @@
 </details>
 
 ---
-
+<div style="background-color: red">
 <details>
 <summary>Don't Quit!</summary>
 <br>
@@ -73,4 +73,6 @@
 > It may be near when it seems so far,<br/>
 > So stick to the fight when you’re hardest hit-<br/>
 > It’s when things seem worst that you must not quit”<br/>
+  
 </details>
+</div>
