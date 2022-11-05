@@ -1,5 +1,5 @@
-> <b>Life is a succession of lessons, which must be lived to be understood.
-> <br/>— <cite>Ralph Waldo Emerson</cite></b>
+> <b>Life is a succession of lessons, which must be lived to be understood.</b>
+> <br/>— <cite>Ralph Waldo Emerson</cite>
 
 
 ## 👋 Hi there; My name is Amir:
