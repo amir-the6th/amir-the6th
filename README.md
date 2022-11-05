@@ -32,6 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
 
+---
 ## Don't Quit!
 > by: *Edgar Albert Guest*
 > 
