@@ -44,7 +44,8 @@
 <summary>Open Dropdown</summary>
 <br>
 
-Don't Quit!
+***Don't Quit!***
+<br>
 <cite>by: *Edgar Albert Guest*</cite>
   
 > “When things go wrong, as they sometimes will,<br/>
