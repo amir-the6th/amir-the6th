@@ -1,4 +1,4 @@
-> <span style="font-size: 1.2em;">Life is a succession of lessons, which must be lived to be understood.</span>
+> <b>Life is a succession of lessons, which must be lived to be understood.</b>
 > <br/>— <cite>Ralph Waldo Emerson</cite>
 
 
