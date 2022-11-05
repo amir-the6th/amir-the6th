@@ -42,9 +42,7 @@
 <details>
   
 <summary>Open Dropdown</summary>
-  
 <br>
-
 <h3>Don't Quit!</h3>
 <cite>by: *Edgar Albert Guest*</cite>
   
