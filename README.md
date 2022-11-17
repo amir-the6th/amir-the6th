@@ -11,7 +11,7 @@
 - 🌱 Currently doing a Front-End bootcamp at [Scrimba](https://scrimba.com). 
 
 - 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website](https://arsenicolos.com) | 🤝[LinkedIn](https://linkedin.com/in/arsenicolos)
-- 🤔 I shared a favorite poems of mine, [*Don't Quit*](#motivational-poem), after the Stats section.
+- 🤔 I will share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
 ---
 <!--
 - 🔭 I’m currently working on ...
