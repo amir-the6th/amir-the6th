@@ -24,19 +24,20 @@
 - 🤔 I share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
 ---
 ## My Skillset
+<em>(If needed, you can hover on the image for its name)</em>
 ### Front-End Development
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" title="html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/angular" /> <img height="32" width="32" src="https://cdn.simpleicons.org/jquery" /> <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-<b style="font-size:1.1em;height:">Learning: </b> <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/gray" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sass" /> <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" title="HTML5" alt="HTML5" /> <img title="CSS3" alt="CSS3" height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img title="JavaScript" alt="JavaScript" height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img title="React.js" alt="React.js" height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img title="Angular" alt="Angular" height="32" width="32" src="https://cdn.simpleicons.org/angular" /> <img title="jQuery" alt="jQuery" height="32" width="32" src="https://cdn.simpleicons.org/jquery" /> <img title="Bootstrap" alt="Bootstrap" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<b style="font-size:1.1em;height:">Learning: </b> <img title="Next.js" alt="Next.js" height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/gray" /> <img title="SASS" alt="SASS" height="32" width="32" src="https://cdn.simpleicons.org/sass" /> <img title="TailwindCSS" alt="TailwindCSS" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 
 ### Back-End Development
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/gray" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
+<img title="Express.js" alt="Express.js" height="32" width="32" src="https://cdn.simpleicons.org/express/gray" /> <img title="Node.js" alt="Node.js" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /> <img title="Typescript" alt="Typescript" height="32" width="32" src="https://cdn.simpleicons.org/typescript" /> <img title="MongoDB" alt="MongoDB" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> <img title="MySQL" alt="MySQL" height="32" width="32" src="https://cdn.simpleicons.org/mysql" /> <img title="Microsoft SQL Server" alt="Microsoft SQL Server" height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver" /> <img title="PostgreSQL" alt="PostgreSQL" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 
 ### Programming Languages
-<img height="32" width="32" src="https://cdn.simpleicons.org/c" /> <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /> <img height="32" width="32" src="./java-logo.svg" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<img title="C language" alt="C language" height="32" width="32" src="https://cdn.simpleicons.org/c" /> <img title="C++" alt="C++" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /> <img title="Java" alt="Java" height="32" width="32" src="./java-logo.svg" /> <img title="Python" alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <em> (My knowledge of these languages is outdated at the moment)</em>
 
 ### Nice To Mention
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/wordpress" /> <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /> <img height="32" width="32" src="https://cdn.simpleicons.org/googleads" /> <img height="32" width="32" src="https://cdn.simpleicons.org/googleanalytics" /> <img height="32" width="32" src="https://cdn.simpleicons.org/notion/gray" /> <img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" /> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" /> <img height="32" width="32" src="https://cdn.simpleicons.org/canva" /> <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/gray" />
+<img title="Git" alt="Git" height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img title="WordPress" alt="WordPress" height="32" width="32" src="https://cdn.simpleicons.org/wordpress" /> <img title="Photoshop" alt="Photoshop" height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /> <img title="Google Ads" alt="Google Ads" height="32" width="32" src="https://cdn.simpleicons.org/googleads" /> <img title="Google Analytics" alt="Google Analytics" height="32" width="32" src="https://cdn.simpleicons.org/googleanalytics" /> <img title="Notion" alt="Notion" height="32" width="32" src="https://cdn.simpleicons.org/notion/gray" /> <img title="Obsidian" alt="Obsidian" height="32" width="32" src="https://cdn.simpleicons.org/obsidian" /> <img title="Excel - Google Sheet" alt="Excel - Google Sheet" height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" /> <img title="Canva" alt="Canva" height="32" width="32" src="https://cdn.simpleicons.org/canva" /> <img title="Markdown" alt="Markdown" height="32" width="32" src="https://cdn.simpleicons.org/markdown/gray" />
 
 ---
 
@@ -133,6 +134,7 @@
     - I'm a novice cyclist🚴‍♂️ and boxer🥊
     - Used to play basketball🏀 and table tennis🏓 professionally <em>(still can beat your ass on the latter)</em>
     - My memory is shorter than that of a fish🐟
+  - I'm super attentive to detail <em>(not so fun at times)</em> 
 
 <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/adidas/white" /> -->
 
