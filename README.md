@@ -15,6 +15,8 @@
 ---
 <img height="32" width="32" src="https://cdn.simpleicons.org/adidas&logoColor=white" />
 <img src="https://img.shields.io/packagist/v/simple-icons/simple-icons?logo=adidas&logoColor=white"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg&logoColor=white" />
 
 <!--
 - 🔭 I’m currently working on ...
