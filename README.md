@@ -1,8 +1,9 @@
 > <b>Life is a succession of lessons, which must be lived to be understood.</b>
 > <br/>— <cite>Ralph Waldo Emerson</cite>
 
-
-## 👋 Hi there; My name is Amir. Little to know about me:
+<img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-1.png" height="50" width="50"/>
+# 👋 Hey there! My name is Amir. 
+## Little to know about me:
 - 💻 I finished a CS program at Seneca College.
 - 📊 Left my learnings and became a Marketing Technologist for a year.
 - 👨🏻‍💻 Loved it, but loved programming more.
