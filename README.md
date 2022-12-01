@@ -14,6 +14,7 @@
 - 🤔 I will share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
 ---
 <img height="32" width="32" src="https://cdn.simpleicons.org/adidas/000000" />
+<img src="https://img.shields.io/packagist/v/simple-icons/simple-icons?logo=adidas&logoColor=white"/>
 
 <!--
 - 🔭 I’m currently working on ...
