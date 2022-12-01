@@ -13,7 +13,7 @@
 - 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website](https://arsenicolos.com) | [![Amir Sabagh Linkedin](https://img.shields.io/badge/Amir%20Sabagh-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/arsenicolos) 
 - 🤔 I will share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
 ---
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/000" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/adidas/000000" />
 
 <!--
 - 🔭 I’m currently working on ...
