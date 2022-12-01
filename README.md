@@ -4,8 +4,8 @@
 # 👋 Hey there! My name is Amir.
 
 <img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/> Table of Contents:
-1. [#Little-to-know-about-me]
-2. [#My-Skillset]
+1. [#little-to-know-about-me]
+2. [#my-skillset]
 3. sdf
 4. 
 
