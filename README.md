@@ -3,13 +3,13 @@
 
 # 👋 Hey there! My name is Amir.
 
-	Table of Contents:
-	1. [#My Skillset]
-	2. [#
+	<img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/> Table of Contents:
+	1. [#Little-to-know-about-me]
+	2. [#My-Skillset]
 	3. sdf
 	4. 
 
-## <img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/> Little to know about me:
+## Little to know about me
 - 💻 I finished a CS program at Seneca College.
 - 📊 Left my learnings and became a Marketing Technologist for a year.
 - 👨🏻‍💻 Loved it, but loved programming more.
