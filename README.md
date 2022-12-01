@@ -1,10 +1,9 @@
 > <b>Life is a succession of lessons, which must be lived to be understood.</b>
 > <br/>— <cite>Ralph Waldo Emerson</cite>
 
-<img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/>
-# 👋 Hey there! My name is Amir.
+<!-- <img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/> -->
 
-<div id="toc" style="background-color:gray;">
+# 👋 Hey there! My name is Amir.
 
 ## Table of Contents
 1. [Little to know about me](#little-to-know-about-me)
@@ -12,8 +11,6 @@
 3. [Stats](#stats)
 4. [Motivational Poem](#motivational-poem)
 5. [More to know about me](#more-to-know-about-me) <em>(Read it at your own risk)</em>
-
-</div>
 
 ## Little to know about me
 - 💻 I finished a CS program at Seneca College.
@@ -41,17 +38,8 @@
 ### Nice To Mention
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/wordpress" /> <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /> <img height="32" width="32" src="https://cdn.simpleicons.org/googleads" /> <img height="32" width="32" src="https://cdn.simpleicons.org/googleanalytics" /> <img height="32" width="32" src="https://cdn.simpleicons.org/notion/gray" /> <img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" /> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" /> <img height="32" width="32" src="https://cdn.simpleicons.org/canva" /> <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/gray" />
 
-<!--
-<img height="32" width="32" src="https://cdn.simpleicons.org/adidas/white" />
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
 ## Stats
 
 ![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
@@ -106,4 +94,46 @@
 > So stick to the fight when you’re hardest hit-<br/>
 > It’s when things seem worst that you must not quit”<br/>
   
+</details>
+
+---
+
+## More to know about me
+<b style="color:red"> ⚠️Warning: </b> Reading the below information is absolutely unnecessary and does you no benefit other than knowing me better.
+
+<details>
+  
+<summary>Open Dropdown</summary>
+  
+- 🎙️ Podcasts I highly support:
+    - The Joe Rogan Experience
+    - Lex Fridman Podcast
+    - Huberman Lab
+    - Modern Wisdom
+    - The Game w/ Alex Hormozi
+    - The School of Greatness
+    - Masters of Scale
+- 📙 Currently Reading:
+    - Sell Like Crazy
+    - Kafka on the Shore
+    - ([Add me as a friend on Goodreads](https://www.goodreads.com/user/show/93210875-amir))
+- 🎥 Currently watching:
+    - Twin peaks
+    - Whiplash
+    - ([Add me as a friend on Letterboxd](https://letterboxd.com/Arsenicolos/))
+- 💬 Favorite topics to chat over coffee:
+    - Blockchain
+    - Food
+    - History & Philosophy
+    - Mindfulness
+    - Business & Startup
+- ⚡ Fun fact: .
+    - I'm left-handed
+    - My curiosity is the easiest to trigger 
+    - I'm a novice cyclist🚴‍♂️ and boxer🥊
+    - Used to play basketball🏀 and table tennis🏓 professionally <em>(still can beat your ass on the latter)</em>
+    - My memory is shorter than that of a fish🐟
+
+<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/adidas/white" /> -->
+
 </details>
