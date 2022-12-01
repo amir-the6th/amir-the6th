@@ -1,14 +1,19 @@
 > <b>Life is a succession of lessons, which must be lived to be understood.</b>
 > <br/>— <cite>Ralph Waldo Emerson</cite>
 
+<img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/>
 # 👋 Hey there! My name is Amir.
 
-<img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/> Table of Contents:
+<div id="toc" style="background-color:#f2f2f2;">
+
+## Table of Contents
 1. [Little to know about me](#little-to-know-about-me)
 2. [My Skillset](#my-skillset)
 3. [Stats](#stats)
 4. [Motivational Poem](#motivational-poem)
 5. [More to know about me](#more-to-know-about-me) <em>(Read it at your own risk)</em>
+
+</div>
 
 ## Little to know about me
 - 💻 I finished a CS program at Seneca College.
