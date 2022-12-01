@@ -99,7 +99,7 @@
 ---
 
 ## More to know about me
-<b> ⚠️Warning: Reading the below information is absolutely unnecessary and does you no benefit other than knowing me better. Proceed at your own risk. </b>
+<b> ⚠️Warning: Reading the below information is absolutely unnecessary and does you no benefit than knowing me better. Please proceed at your own risk. </b>
 
 <details>
   
