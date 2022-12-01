@@ -128,13 +128,13 @@
     - History & Philosophy
     - Mindfulness
     - Business & Startup
-- ⚡ Fun fact: .
+- ⚡ Fun facts:
     - I'm left-handed
     - My curiosity is the easiest to trigger 
     - I'm a novice cyclist🚴‍♂️ and boxer🥊
     - Used to play basketball🏀 and table tennis🏓 professionally <em>(still can beat your ass on the latter)</em>
     - My memory is shorter than that of a fish🐟
-  - I'm super attentive to detail <em>(not so fun at times)</em> 
+    - I'm super attentive to detail <em>(not so fun at times)</em> 
 
 <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/adidas/white" /> -->
 
