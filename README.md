@@ -10,7 +10,7 @@
 - 🌐 More focused on front-end development this time.
 - 🌱 Currently doing a Front-End bootcamp at [Scrimba](https://scrimba.com). 
 
-- 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website](https://arsenicolos.com) | 🤝[![Linkedin](https://img.shields.io/badge/Amir%20Sabagh-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/arsenicolos) 
+- 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website](https://arsenicolos.com) | [![Amir Sabagh Linkedin](https://img.shields.io/badge/Amir%20Sabagh-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/arsenicolos) 
 - 🤔 I will share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
 ---
 <!--
