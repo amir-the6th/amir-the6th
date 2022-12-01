@@ -16,7 +16,7 @@
 ## My Skillset
 ### Front-End Development
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/angular" /> <img height="32" width="32" src="https://cdn.simpleicons.org/jquery" /> <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-<b style="font-size:1.1em;height:">Learning: </b> <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sass" /> <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+<b style="font-size:1.1em;height:">Learning: </b> <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/gray" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sass" /> <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 
 ### Back-End Development
 <img height="32" width="32" src="https://cdn.simpleicons.org/express" />
@@ -40,7 +40,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/googleads" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/googleanalytics" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/notion" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/notion/gray" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/canva" />
