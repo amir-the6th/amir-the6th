@@ -4,7 +4,7 @@
 <img alt="Arsenicolos log - a special equilateral triangle" src="./Logo-3.png" height="32" width="32"/>
 # 👋 Hey there! My name is Amir.
 
-<div id="toc" style="background-color:#f2f2f2;">
+<div id="toc" style="background-color:gray;">
 
 ## Table of Contents
 1. [Little to know about me](#little-to-know-about-me)
