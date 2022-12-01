@@ -14,7 +14,45 @@
 - 🤔 I will share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
 ---
 ## My Skillset
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+### Front-End Development
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/angular" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jquery" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<b style="font-size:1.1em;height:">| Learning: </b>
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+
+### Back-End Development
+<img height="32" width="32" src="https://cdn.simpleicons.org/express" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
+
+### Programming Languages
+<img height="32" width="32" src="https://cdn.simpleicons.org/c" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+<img height="32" width="32" src="./java-logo.svg" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<em>(My knowledge of these languages is outdated at the moment)</em>
+
+### Nice To Mention
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/wordpress" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/googleads" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/googleanalytics" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/notion" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/canva" />
 
 <!--
 <img height="32" width="32" src="https://cdn.simpleicons.org/adidas/white" />
