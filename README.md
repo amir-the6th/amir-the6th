@@ -14,11 +14,11 @@
 
 ## Little to know about me
 - 💻 I finished a CS program at Seneca College.
-- 📊 Left my learnings and became a Marketing Technologist for a year.
+- 📊 Left my learnings after graduation and became a Marketing Technologist for a year.
 - 👨🏻‍💻 Loved it, but loved programming more.
 - 🚀 Kicked off my development journey again.
 - 🌐 More focused on front-end development this time.
-- 🌱 Currently doing a Front-End bootcamp at [Scrimba](https://scrimba.com). 
+- 🌱 Currently pursuing a Front-End Dev Career Path at [Scrimba](https://scrimba.com). 
 
 - 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website](https://arsenicolos.com) | [![Amir Sabagh Linkedin](https://img.shields.io/badge/Amir%20Sabagh-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/arsenicolos) 
 - 🤔 I share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
