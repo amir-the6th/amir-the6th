@@ -1,3 +1,5 @@
+<img src="./GitHub%20cover.png" alt="GitHub cover, welcoming the readers and invite them to some pull requests">
+
 > <b>Life is a succession of lessons, which must be lived to be understood.</b>
 > <br/>— <cite>Ralph Waldo Emerson</cite>
 
