@@ -56,7 +56,8 @@
 ![Amir Trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=discord&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)
 <br/>[Credit](https://github.com/ryo-ma/github-profile-trophy)
 <br/><br/>
-  
+
+![Top Langs](https://readme-stats-brown-five.vercel.app/api/top-langs/?username=amir-the6th&layout=compact&langs_count=6) 
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
   
 ---
