@@ -47,11 +47,11 @@
 
 ![Amir Stats](https://github-readme-streak-stats.herokuapp.com/?user=amir-the6th&theme=algolia&hide_border=true")
 
-<br/><br/>
+<br/>
 
 ![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&show_icons=true&theme=radical&count_private=true)
 
-<br/><br/>
+<br/>
   
 ![Amir Trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=discord&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)
 <br/>[Credit](https://github.com/ryo-ma/github-profile-trophy)
@@ -59,7 +59,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact&langs_count=7)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
+<br/>
 
 <!-- ![Amir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amir-the6th) -->
   
