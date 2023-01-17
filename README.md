@@ -46,17 +46,17 @@
 ## Stats
 
 ![Amir Stats](https://github-readme-streak-stats.herokuapp.com/?user=amir-the6th&theme=algolia&hide_border=true")
-![Amir Stats](https://readme-stats-brown-five.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
+
+<br/><br/>
+
 ![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&show_icons=true&theme=radical&count_private=true)
 
-<br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=discord&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)
+![Amir Trophy](https://github-profile-trophy.vercel.app/?username=amir-the6th&theme=discord&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)
 <br/>[Credit](https://github.com/ryo-ma/github-profile-trophy)
 <br/><br/>
   
-![Top Langs](https://readme-stats-brown-five.vercel.app/api/top-langs/?username=amir-the6th&layout=compact&langs_count=6) 
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
   
 ---
