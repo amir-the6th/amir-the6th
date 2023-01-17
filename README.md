@@ -46,6 +46,7 @@
 ## Stats
 
 ![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
+![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
   
