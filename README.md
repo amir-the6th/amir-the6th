@@ -57,7 +57,7 @@
 <br/>[Credit](https://github.com/ryo-ma/github-profile-trophy)
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact&langs_count=8)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
