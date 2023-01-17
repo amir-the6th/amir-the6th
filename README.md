@@ -45,7 +45,7 @@
 
 ## Stats
 
-![Amir Stats](https://readme-stats-brown-five.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
+![Amir Stats](https://github-readme-streak-stats.herokuapp.com/?user=amir-the6th&theme=algolia&hide_border=true")
 ![Amir Stats](https://readme-stats-brown-five.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
