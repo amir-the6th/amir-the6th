@@ -45,8 +45,8 @@
 
 ## Stats
 
-![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
-![Amir Stats](https://github-readme-stats.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
+![Amir Stats](https://readme-stats-brown-five.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
+![Amir Stats](https://readme-stats-brown-five.vercel.app/api?username=amir-the6th&count_private=true&show_icons=true&theme=material-palenight)
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
   
@@ -54,7 +54,7 @@
 <br/>[Credit](https://github.com/ryo-ma/github-profile-trophy)
 <br/><br/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-the6th&layout=compact&langs_count=6) 
+![Top Langs](https://readme-stats-brown-five.vercel.app/api/top-langs/?username=amir-the6th&layout=compact&langs_count=6) 
 <br/>[Credit](https://github.com/anuraghazra/github-readme-stats)
   
 ---
