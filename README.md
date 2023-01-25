@@ -15,12 +15,12 @@
 5. [More to know about me](#more-to-know-about-me) <em>(Read it at your own risk)</em>
 
 ## Little to know about me
-- 💻 I finished a CS program at Seneca College.
-- 📊 Left my learnings after graduation and became a Marketing Technologist for a year.
-- 👨🏻‍💻 Loved it, but loved programming more.
-- 🚀 Kicked off my development journey again.
-- 🌐 More focused on front-end development this time.
-- 🌱 Currently pursuing a Front-End Dev Career Path at [Scrimba](https://scrimba.com). 
+- 💻 I completed a Computer Science program at Seneca College.
+- 📊 After graduating, I became a Marketing Technologist for a year.
+- 👨🏻‍💻 I enjoyed the role but ultimately found my true passion in programming.
+- 🚀 I began my development journey again.
+- 🌐 This time, I am focusing on front-end development.
+- 🌱 Currently, I am pursuing the Front-End Development Career Path at [Scrimba](https://scrimba.com).
 
 - 📫 How to reach me: 📧[Email](mailto:info@arsenicolos.com) | 🌏[Website](https://arsenicolos.com) | [![Amir Sabagh Linkedin](https://img.shields.io/badge/Amir%20Sabagh-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/arsenicolos) 
 - 🤔 I share a favorite poems of mine called [*Don't Quit*](#motivational-poem) after the Stats section.
@@ -128,20 +128,18 @@
     - Kafka on the Shore
     - ([Add me as a friend on Goodreads](https://www.goodreads.com/user/show/93210875-amir))
 - 🎥 Currently watching:
-    - Twin peaks
-    - Whiplash
-    - ([Add me as a friend on Letterboxd](https://letterboxd.com/Arsenicolos/))
+    - ([Check it out on my Letterboxd profile](https://letterboxd.com/Arsenicolos/))
 - 💬 Favorite topics to chat over coffee:
+    - Business & Startup
+    - Mindfulness
     - Blockchain
     - Food
     - History & Philosophy
-    - Mindfulness
-    - Business & Startup
 - ⚡ Fun facts:
     - I'm left-handed
     - My curiosity is the easiest to trigger 
-    - I'm a novice cyclist🚴‍♂️ and boxer🥊
-    - Used to play basketball🏀 and table tennis🏓 professionally <em>(still can beat your ass on the latter)</em>
+    - I'm a cyclist🚴‍♂️ and a novice boxer🥊
+    - Used to play basketball🏀 and table tennis🏓 professionally <em>(still can beat your butt on the latter)</em>
     - My memory is shorter than that of a fish🐟
     - I'm super attentive to detail <em>(not so fun at times)</em> 
 
