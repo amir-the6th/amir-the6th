@@ -124,8 +124,8 @@
     - The School of Greatness
     - Masters of Scale
 - 📙 Currently Reading:
-    - Sell Like Crazy
-    - Kafka on the Shore
+    - Adieu Gary Cooper
+    - Next up: $100M Offers by Alex Hormozi
     - ([Add me as a friend on Goodreads](https://www.goodreads.com/user/show/93210875-amir))
 - 🎥 Currently watching:
     - ([Check it out on my Letterboxd profile](https://letterboxd.com/Arsenicolos/))
